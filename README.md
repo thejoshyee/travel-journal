@@ -5,7 +5,8 @@ This project for Scrimba's Front-End Developer Career Path where I created a pag
 
 ## Learning
 - React
-- JSON
+  - Props
+  - Mapping Data (JSON)
 
 Quick start:
 
