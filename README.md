@@ -1,7 +1,7 @@
 # Scrimba - Travel Journal
 
 ## About
-This project for Scrimba's Front-End Developer Career Path where I created a page that display data from a JSON file using React. 
+This project was for Scrimba's Front-End Developer Career Path where I created a page that display data from a JSON file using React. 
 
 ## Learning
 - React
